@@ -20,12 +20,21 @@
 
 ---
 ### About me
-
-I am a Software Developer (Primarily Python Django) who enjoys building and participating in interesting projects, and who also really digs data analysis and visualization.
-
-Originally graduated as an environmental engineer 🌱.
-
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrepombo/) 
-                      | [Medium](https://medium.com/@andrepombo)
-                      | andrebastos85@gmail.com 
-
+  
+Full‑stack developer from Brazil. I design, build, and ship production‑grade apps end‑to‑end—from backend architecture and frontend UX to CI/CD and cloud infrastructure.
+ 
+Originally trained as an Environmental Engineer, I transitioned into software and now deliver complete solutions: APIs, web apps, containerized services, and automated deployments.
+ 
+#### Contact
+ 
+<a href="https://www.linkedin.com/in/andrepombo/" target="_blank" rel="noopener noreferrer">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+ 
+<a href="https://medium.com/me/stories/public" target="_blank" rel="noopener noreferrer">
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+ 
+<br>
+ 
+📧 <a href="mailto:andrebastos85@gmail.com">andrebastos85@gmail.com</a>
